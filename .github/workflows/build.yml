@@ -6,9 +6,6 @@ name: Deploy
 on:
   push:
     branches: [main]
-  workflow_run:
-    workflows: ["CI"]
-    types: [completed]
 
 jobs:
   deploy:
@@ -19,7 +16,6 @@ jobs:
         node-version: [16.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v2
 
