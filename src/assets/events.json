@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Début du projet",
+    "content": "JsonLinesCode écrit les premières lignes de code de ce projet.",
+    "date": "21 Janvier 2020"
+  },
+  {
+    "title": "Ajout de la compatibilité EcoleDirecte",
+    "date": "Février 2020"
+  },
+  {
+    "title": "Ajout des notifications",
+    "content": "JsonLinesCode ajoute les notifications des nouveaux mails et devoirs.",
+    "date": "Juin 2020"
+  },
+  {
+    "title": "Ajout de la compatibilité Pronote",
+    "content": "Les premiers balbutiements de l'API Pronote.",
+    "date": "Juillet 2020"
+  },
+  {
+    "title": "Publication sur le Google Play Store 🥳",
+    "date": "3 Août 2020"
+  },
+  {
+    "title": "Florian LEFEBVRE rejoint le projet",
+    "content": "Il s'occupe des sites internets et aide pour l'interface de l'application.",
+    "date": "Octobre 2020"
+  },
+  {
+    "title": "Déploiements automatisés",
+    "content": "Les mises à jour sont déployées à la vitesse de lumière !",
+    "date": "Janvier 2021"
+  },
+  {
+    "title": "Publication sur l'App Store 🥳",
+    "date": "28 Avril 2021"
+  },
+  {
+    "title": "Florian devient mainteneur",
+    "date": "Septembre 2021"
+  },
+  {
+    "title": "The End ?",
+    "date": "3 Avril 2022"
+  }
+]
