@@ -137,6 +137,6 @@
 import Header from "./components/Header.vue";
 import Footer from "./components/Footer.vue";
 import TheEnd from "./assets/theEnd.md";
-import contributors from "./assets/contributors.json";
+import contributors from "./assets/contributors";
 import events from "./assets/events.json";
 </script>
