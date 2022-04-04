@@ -128,6 +128,18 @@
           </div>
         </div>
       </div>
+      <div class="py-16 bg-primary-400">
+        <div class="custom-container">
+          <h2 class="text-5xl text-white font-bold mb-8">Nous contacter</h2>
+          <a
+            target="_blank"
+            href="mailto:contact@ynotes.fr"
+            class="text-white hover:underline text-xl"
+          >
+            contact@ynotes.fr</a
+          >
+        </div>
+      </div>
     </div>
     <Footer />
   </div>
