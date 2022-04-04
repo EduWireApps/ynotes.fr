@@ -5,11 +5,11 @@
     <Header />
     <div class="">
       <div class="py-16 bg-gradient-to-tr from-primary-500 to-primary-400">
-        <div class="max-w-4xl mx-auto text-5xl font-bold text-white mb-24">
+        <div class="custom-container text-5xl font-bold text-white mb-24">
           <h1>yNotes, votre application scolaire connectée</h1>
         </div>
         <div
-          class="prose prose-invert mx-auto max-w-4xl prose-lg text-primary-100"
+          class="prose prose-invert custom-container prose-lg text-primary-100"
         >
           <TheEnd />
           <div class="italic mt-16">
@@ -21,7 +21,7 @@
         </div>
       </div>
       <div class="py-16 bg-white">
-        <div class="max-w-4xl mx-auto">
+        <div class="custom-container">
           <h2 class="text-5xl text-gray-800 font-bold">Contributeurs</h2>
           <div
             class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap gap-y-8 gap-x-2 mt-8"
@@ -49,7 +49,7 @@
         </div>
       </div>
       <div class="py-16 bg-primary-400">
-        <div class="max-w-4xl mx-auto">
+        <div class="custom-container">
           <h2 class="text-5xl text-white font-bold mb-12">Chronologie</h2>
           <div class="flex flex-col grid-cols-9 p-2 mx-auto md:grid">
             <div
