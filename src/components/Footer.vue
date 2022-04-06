@@ -2,11 +2,13 @@
   <footer
     class="mt-auto border-t border-gray-300 bg-white px-2 py-4 text-gray-500"
   >
-    <div class="custom-container flex justify-between">
-      <div class="span">
+    <div
+      class="custom-container flex flex-col md:flex-row justify-between items-center"
+    >
+      <div class="span mb-4 md:mb-0">
         &copy; {{ new Date().getFullYear() }} - Tous droits réservés
       </div>
-      <div class="flex space-x-4">
+      <div class="flex flex-col sm:flex-row sm:space-x-4 items-center">
         <a
           href="/legal/pdc.pdf"
           target="_blank"
