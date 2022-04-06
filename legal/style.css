@@ -3,3 +3,10 @@
 * {
   font-family: "Asap", sans-serif;
 }
+
+a[href]:after {
+  content: "";
+}
+a[href] {
+  color: #5c66c1;
+}
