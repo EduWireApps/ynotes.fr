@@ -38,6 +38,8 @@
                 class="block w-24 h-24 rounded-full shadow-md"
                 :alt="`${c.name} avatar`"
                 loading="lazy"
+                width="96"
+                height="96"
               />
               <div class="text-center font-semibold">
                 <div class="text-gray-800 text-lg">{{ c.name }}</div>
@@ -99,7 +101,7 @@
                   v-html="e.content"
                 ></p>
                 <span
-                  class="absolute text-sm text-primary-200 -top-5 left-2 whitespace-nowrap"
+                  class="absolute text-sm text-primary-300 -top-5 left-2 whitespace-nowrap"
                   v-html="e.date"
                 ></span>
               </div>
