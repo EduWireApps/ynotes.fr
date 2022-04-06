@@ -38,8 +38,8 @@
                 class="block w-24 h-24 rounded-full shadow-md"
                 :alt="`${c.name} avatar`"
                 loading="lazy"
-                width="96"
-                height="96"
+                width="96px"
+                height="96px"
               />
               <div class="text-center font-semibold">
                 <div class="text-gray-800 text-lg">{{ c.name }}</div>

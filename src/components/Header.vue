@@ -8,8 +8,8 @@
           src="../assets/logo.png"
           alt="Logo de yNotes"
           class="h-8 w-8 rounded-md"
-          width="32"
-          height="32"
+          width="32px"
+          height="32px"
         />
         <span>yNotes</span>
       </div>
