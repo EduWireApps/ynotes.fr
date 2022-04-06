@@ -6,8 +6,8 @@
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
-    "build:pdf:pdc": "markdown-pdf legal/pdc.md --out public/legal/pdc.pdf --paper-format 'A4'",
-    "build:pdf:cgu": "markdown-pdf legal/cgu.md --out public/legal/cgu.pdf --paper-format 'A4'",
+    "build:pdf:pdc": "markdown-pdf legal/pdc.md --out public/legal/pdc.pdf --paper-format 'A4' --css-path legal/style.css",
+    "build:pdf:cgu": "markdown-pdf legal/cgu.md --out public/legal/cgu.pdf --paper-format 'A4' --css-path legal/style.css",
     "build:pdf": "yarn build:pdf:pdc && yarn build:pdf:cgu"
   },
   "dependencies": {
