@@ -58,7 +58,7 @@ fournisseurs d’hébergement, les entreprises informatiques, les agences de com
 
 Le Propriétaire peut traiter les Données personnelles relatives aux Utilisateurs si l'une des conditions suivantes s’applique :
 
-- Les Utilisateurs ont donné leur consentement pour une ou plusieurs finalités spécifiques. A noter : Selon certaines législations, le Propriétaire peut être autorisé à traiter des Données personnelles jusqu'à ce que l'Utilisateur s'y oppose (« opt-out »), sans avoir à dépendre du consentement ou de l'une des bases juridiques suivantes. Cette condition ne s'applique toutefois pas lorsque le traitement des Données personnelles est soumis à la loi européenne sur la protection des données
+- Les Utilisateurs ont donné leur consentement pour une ou plusieurs finalités spécifiques. A noter : Selon certaines législations, le Propriétaire peut être autorisé à traiter des Données personnelles jusqu'à ce que l'Utilisateur s'y oppose ("opt-out"), sans avoir à dépendre du consentement ou de l'une des bases juridiques suivantes. Cette condition ne s'applique toutefois pas lorsque le traitement des Données personnelles est soumis à la loi européenne sur la protection des données
 - La fourniture de Données est nécessaire pour l'exécution d'un accord avec
   l'Utilisateur ou pour toute obligation précontractuelle de celui-ci ; le traitement est nécessaire pour se conformer à une obligation légale à laquelle le Propriétaire est soumis
 - Le traitement est lié à une tâche effectuée dans l'intérêt public ou dans l'exercice de l'autorité publique dévolue au Propriétaire
@@ -80,28 +80,94 @@ Si un tel transfert a lieu, les Utilisateurs peuvent en savoir plus en consultan
 
 ### Temps de conservation
 
+Cette section s'applique uniquement aux Données conservées par les services tiers. Les Données locales telles que l'enregistrement des identifiants, ou le suivi des données sont enregistrées et conservées sur l'appareil de l'Utilisateur qui se réserve le droit intégral de suppression de ces Données.
+
+Les Données personnelles sont traitées et conservées aussi longtemps que requis pour la finalité pour laquelle elles ont été collectées.
+
+Par conséquent :
+
+- Les Données personnelles collectées à des fins liées à l'exécution d'un contrat entre le Propriétaire et l'Utilisateur doivent être conservées jusqu'à la pleine exécution du contrat
+- Les Données personnelles collectées aux fins des intérêts légitimes du Propriétaire doivent être conservées aussi longtemps que nécessaire pour atteindre ces objectifs. Les Utilisateurs peuvent trouver des informations spécifiques concernant les intérêts légitimes poursuivis par le Propriétaire dans les sections correspondantes du présent document ou en contactant le Propriétaire
+
+Le Propriétaire peut être autorisé à conserver des Données personnelles plus longtemps chaque fois que l’Utilisateur a donné son consentement à un tel traitement, tant que ce consentement n’est pas retiré. En outre, le Propriétaire peut être obligé de conserver des Données personnelles plus longtemps chaque fois que cela est requis pour l'exécution d'une obligation légale ou sur ordre d'une autorité.
+
+Une fois la période de conservation expirée, les Données personnelles seront
+supprimées. Par conséquent, le droit d'accès, le droit d'effacement, le droit de rectification et le droit à la portabilité des données ne peuvent être appliqués après l'expiration de la période de conservation.
+
 ## Finalités du traitement
+
+Les Données relatives à l’Utilisateur sont collectées afin de permettre au Propriétaire de fournir son Service, de remplir ses obligations, de répondre aux demandes d’application de la loi, de protéger ses droits et intérêts (ou ceux de ses Utilisateurs ou de tiers), de détecter toute activité malveillante ou frauduleuse, ainsi que ce qui suit : Contacter l'Utilisateur.
+
+Pour obtenir des informations précises sur les Données personnelles utilisées pour chaque finalité, l’Utilisateur peut consulter la partie "Plus d'informations sur le traitement des Données personnelles".
 
 ## Informations détaillés sur le traitement des Données personnelles
 
+Les Données personnelles sont collectées pour les finalités suivantes à l'aide de plusieurs services :
+
+- Contacter l'Utilisateur
+
 ## Droits des Utilisateurs
+
+Les Utilisateurs peuvent exercer certains droits concernant leurs Données traitées par le Propriétaire.
+
+En particulier, les Utilisateurs ont le droit de faire ce qui suit :
+
+- **Retirer leur consentement à tout moment.** Les Utilisateurs ont le droit de retirer leur consentement s'ils ont déjà donné leur consentement au traitement de leurs Données personnelles.
+- **S'opposer au traitement de leurs Données.** Les Utilisateurs ont le droit de s'opposer au traitement de leurs Données si le traitement est effectué sur une base juridique autre que le consentement. Des précisions sont ajoutées dans la section correspondante ci-dessous.
+- **Accéder à leurs Données.** Les Utilisateurs ont le droit de savoir si les Données sont traitées par le Propriétaire, d'obtenir des informations sur certains aspects du traitement et d'obtenir une copie des Données en cours de traitement.
+- **Vérifier et obtenir une rectification.** Les Utilisateurs ont le droit de vérifier l'exactitude de leurs Données et de demander qu'elles soient mises à jour ou corrigées.
+- **Limiter le traitement de leurs Données.** Les Utilisateurs ont le droit, sous certaines conditions, de limiter le traitement de leurs Données. Dans ce cas, le Propriétaire traitera leurs Données uniquement pour les stocker.
+- **Faire supprimer ou effacer leurs Données personnelles.** Les Utilisateurs ont le droit, sous certaines conditions, d'obtenir l'effacement de leurs Données auprès du Propriétaire.
+- **Récupérer leurs Données et les transférer à un autre responsable du traitement.** Les Utilisateurs ont le droit de récupérer leurs Données dans un format structuré, couramment utilisé et lisible par machine et, si cela est techniquement possible, de les transmettre à un autre responsable du traitement sans obstacle d'aucune sorte. Cette disposition s’applique, sous réserve que les Données soient traitées par des moyens automatisés et que le traitement repose sur le consentement de l'Utilisateur, sur un contrat auquel l'Utilisateur est partie ou sur des obligations précontractuelles.
+- **Déposer plainte.** Les Utilisateurs ont le droit de déposer une plainte auprès de leur autorité compétente en matière de protection des données.
 
 ### Informations concernant le droit d'opposition au traitement
 
+Lorsque les Données personnelles sont traitées dans l'intérêt public, dans l'exercice d'une autorité officielle dévolue au Propriétaire ou aux fins des intérêts légitimes poursuivis par celui-ci, les Utilisateurs peuvent s'opposer à ce traitement en fournissant un motif lié à leur situation particulière devant justifier cette opposition.
+
+Les Utilisateurs doivent cependant savoir que si leurs Données personnelles sont traitées à des fins de marketing direct, ils peuvent s'opposer à ce traitement à tout moment sans aucune justification. Pour savoir si le Propriétaire traite des Données personnelles à des fins de marketing direct, les Utilisateurs peuvent se reporter aux sections correspondantes du présent document.
+
 ### Comment exercer ces droits
+
+Toute demande d'exercice des droits de l'Utilisateur peut être adressée au
+Propriétaire grâce aux coordonnées fournies dans le présent document. Ces demandes peuvent être exercées gratuitement et seront étudiées par le Propriétaire le plus tôt possible et toujours dans un délai d'un mois.
 
 ## Informations supplémentaires sur le traitement et la collecte des Données
 
 ### Action en justice
 
+Les Données personnelles de l’Utilisateur peuvent être utilisées à des fins juridiques par le Propriétaire devant les tribunaux ou dans les étapes pouvant conduire à une action en justice résultant d’une utilisation inappropriée de cette Application ou des Services connexes.
+
+L’Utilisateur est conscient du fait que le Propriétaire peut être amené à révéler des Données personnelles à la demande des autorités publiques.
+
 ### Informations supplémentaires concernant les Données personnelles de l'Utilisateur
+
+Outre les informations contenues dans la présente politique de confidentialité, cette Application peut fournir à l’Utilisateur des renseignements complémentaires et des informations contextuelles concernant des services particuliers ou la collecte et le traitement des Données personnelles.
 
 ### Journaux système et maintenance
 
+À des fins d'exploitation et de maintenance, cette Application et tout service tiers peuvent collecter des fichiers qui enregistrent les interactions avec cette Application (journaux système) ou utiliser à cette fin d'autres Données personnelles (telles que l'adresse IP).
+
 ### Informations non incluses dans la présente politique
+
+De plus amples renseignements concernant la collecte ou le traitement des
+Données personnelles peuvent à tout moment être demandés au Propriétaire.
+Veuillez consulter les coordonnées figurant au début du présent document.
 
 ### Comment les demandes "Ne pas pister" sont traitées
 
+Cette Application prend en charge les demandes "Ne pas pister" et désactive pour ce faire l'ensemble des services tiers utilisant vos données personnelles en dehors de celles utilisées par les services d'accès aux données scolaires qui suivent :
+
+- EcoleDirecte
+- Pronote
+
+Référez-vous à la politique de confidentialité de ces services tiers pour déterminer s’ils accèdent ou non aux demandes "Ne pas pister".
+
 ### Modification de la présente politique de confidentialité
+
+Le Propriétaire se réserve le droit d'apporter des modifications à la présente politique de confidentialité, à tout moment, en informant ses Utilisateurs sur cette page et éventuellement dans cette cette Application ou (pour autant que cela soit techniquement et légalement possible) en envoyant une notification aux Utilisateurs par l'intermédiaire des
+coordonnées disponibles pour le Propriétaire. Il est fortement recommandé de
+consulter cette page fréquemment, en se référant à la date de la dernière
+modification indiquée en bas.
 
 Date de modification : 06 avril 2022
