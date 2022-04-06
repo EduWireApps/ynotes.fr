@@ -25,6 +25,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "yarn"
       - run: yarn install --frozen-lockfile
+      - run: yarn build:pdf
       - run: yarn build
       - name: Deploy
         # deploy only for version 16.x
