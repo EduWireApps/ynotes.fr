@@ -77,3 +77,31 @@ Selon la localisation de l’Utilisateur, les transferts de données traitées p
 Les Utilisateurs ont également le droit de connaitre la base juridique des transferts de Données vers un pays situé en dehors de l'Union européenne ou vers toute organisation internationale régie par le droit international public ou créée par deux pays ou plus, comme l'ONU, ainsi que les mesures de sécurité prises par le Propriétaire pour sauvegarder leurs Données.
 
 Si un tel transfert a lieu, les Utilisateurs peuvent en savoir plus en consultant les sections correspondantes du présent document ou se renseigner auprès du Propriétaire en utilisant les informations fournies dans la section de contact.
+
+### Temps de conservation
+
+## Finalités du traitement
+
+## Informations détaillés sur le traitement des Données personnelles
+
+## Droits des Utilisateurs
+
+### Informations concernant le droit d'opposition au traitement
+
+### Comment exercer ces droits
+
+## Informations supplémentaires sur le traitement et la collecte des Données
+
+### Action en justice
+
+### Informations supplémentaires concernant les Données personnelles de l'Utilisateur
+
+### Journaux système et maintenance
+
+### Informations non incluses dans la présente politique
+
+### Comment les demandes "Ne pas pister" sont traitées
+
+### Modification de la présente politique de confidentialité
+
+Date de modification : 06 avril 2022
