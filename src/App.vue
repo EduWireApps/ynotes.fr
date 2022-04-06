@@ -14,7 +14,7 @@
           <TheEnd />
           <div class="italic mt-16">
             <span class="text-2xl font-semibold text-primary-200"
-              >JsonLinesCode,</span
+              >Josselin (aka JsonLines),</span
             ><span class="text-primary-200"> 03 avril 2022</span>
           </div>
           <div class="w-32 h-1 mt-2 rounded-full bg-primary-300"></div>

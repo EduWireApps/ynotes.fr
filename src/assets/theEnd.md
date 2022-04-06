@@ -14,7 +14,7 @@ Légalement, le projet ne tient pas debout et repose sur l'ignorance des service
 
 Nous ne gagnons rien avec yNotes ce qui n'a, je pense, **jamais été un problème**. Mais nous perdons désormais beaucoup de temps à essayer de tenir la barre, et rentrons au port.
 
-Nous ne supprimons rien pour le moment, mais nous fermons tout support pour l'application - incluant une bonne partie des salons de ce serveur.
+Nous ne supprimons rien pour le moment, mais nous fermons tout support pour l'application.
 
 Je vous remercie tous infiniment pour avoir été là et apporté votre soutien.
 
