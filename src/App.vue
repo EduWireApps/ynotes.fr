@@ -101,7 +101,7 @@
                   v-html="e.content"
                 ></p>
                 <span
-                  class="absolute text-sm text-primary-300 -top-5 left-2 whitespace-nowrap"
+                  class="absolute text-sm text-primary-100/75 -top-5 left-2 whitespace-nowrap"
                   v-html="e.date"
                 ></span>
               </div>
