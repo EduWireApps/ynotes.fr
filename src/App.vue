@@ -37,6 +37,7 @@
                 :src="c.image"
                 class="block w-24 h-24 rounded-full shadow-md"
                 :alt="`${c.name} avatar`"
+                loading="lazy"
               />
               <div class="text-center font-semibold">
                 <div class="text-gray-800 text-lg">{{ c.name }}</div>
