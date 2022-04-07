@@ -10,14 +10,14 @@
       </div>
       <div class="flex flex-col sm:flex-row sm:space-x-4 items-center">
         <a
-          href="/ynotes.fr/legal/pdc.pdf"
+          href="/legal/pdc.pdf"
           target="_blank"
           rel="noopener noreferrer"
           class="hover:text-gray-700"
           >Politique de confidentialité</a
         >
         <a
-          href="/ynotes.fr/legal/cgu.pdf"
+          href="/legal/cgu.pdf"
           target="_blank"
           rel="noopener noreferrer"
           class="hover:text-gray-700"
