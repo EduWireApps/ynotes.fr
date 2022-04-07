@@ -132,13 +132,6 @@ Les Utilisateurs doivent cependant savoir que si leurs Données personnelles son
 Toute demande d'exercice des droits de l'Utilisateur peut être adressée au
 Propriétaire grâce aux coordonnées fournies dans le présent document. Ces demandes peuvent être exercées gratuitement et seront étudiées par le Propriétaire le plus tôt possible et toujours dans un délai d'un mois.
 
-## Informations supplémentaires sur le traitement et la collecte des Données
-
-### Action en justice
-
-Les Données personnelles de l’Utilisateur peuvent être utilisées à des fins juridiques par le Propriétaire devant les tribunaux ou dans les étapes pouvant conduire à une action en justice résultant d’une utilisation inappropriée de cette Application ou des Services connexes.
-
-L’Utilisateur est conscient du fait que le Propriétaire peut être amené à révéler des Données personnelles à la demande des autorités publiques.
 
 ### Informations supplémentaires concernant les Données personnelles de l'Utilisateur
 
