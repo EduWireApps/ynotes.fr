@@ -154,4 +154,7 @@ import Footer from "./components/Footer.vue";
 import TheEnd from "./assets/theEnd.md";
 import contributors from "./assets/contributors.json";
 import events from "./assets/events.json";
+import { inject } from "vue";
+
+const plausible = inject("plausible");
 </script>
